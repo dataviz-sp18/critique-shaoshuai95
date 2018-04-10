@@ -47,7 +47,7 @@ The linkage between material well-being and psychological wellness is almost a n
 Part 2. `ggplot2` and the graphics
 ----------------------------------
 
-![](Assignment_1_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-3-1.png)
+![](Assignment_1_files/figure-markdown_github-ascii_identifiers/graphic-1.png)
 
 In this assignment, I draw a picture to depict the life expectancy of each country. In MACS30500 (Computing for Social Science), we learned how to draw a map with `ggplot2`. In that assignment, I made a life expectancy map with `gapminder` package. However, the most recent data in `gapminder` is 2007 and the world has changed a lot since then. In this way, `gapminder` package could potentially attenuate the truthfulness and reliability if I would like to draw a life expectancy map. In this assignment, I will use the most updated dataset on Wikipedia, which was renewed in 2016. The original dataset on Wikipedia came from [World Health Organization (WHO)](http://www.who.int/en/), a specialized agency of the United Nations that is concerned with international public health. Therefore, the data source is reliable and truthful.
 

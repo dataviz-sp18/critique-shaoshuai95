@@ -89,7 +89,7 @@ expectancy`,5))
 colnames(lifeExp) <- c("country","lifeExp","category")
 ```
 
-```{r}
+```{r graphic}
 # Draw the graphic
 image <- lifeExp %>%
     ggplot(aes(map_id = `country`)) +
