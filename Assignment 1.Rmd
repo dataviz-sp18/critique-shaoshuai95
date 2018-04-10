@@ -2,7 +2,7 @@
 title: "Assignment 1"
 author: "Shuai Shao"
 date: "4/9/2018"
-output: html_document
+output: github_document
 ---
 
 ##Part 1. Visualization Critique
